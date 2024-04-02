@@ -1,0 +1,3 @@
+C:/Users/milan/CLionProjects/simpleShell/cmake-build-debug/CMakeFiles/simpleShell.dir
+C:/Users/milan/CLionProjects/simpleShell/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/milan/CLionProjects/simpleShell/cmake-build-debug/CMakeFiles/rebuild_cache.dir
